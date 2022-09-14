@@ -1,7 +1,7 @@
 ### Eu sou o Bruno Gonçalves ✌️
 
 - 🔭 I’m currently working on personal projects
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript and Java
 
 <a href="https://github.com/BrunoGonSouza">
   <img height="160em " src="https://github-readme-stats.vercel.app/api?username=brunogonsouza&show_icons=true&theme=kacho_ga&include_all_commits=true&count_private=true"/>
