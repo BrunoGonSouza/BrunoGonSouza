@@ -1,4 +1,4 @@
-### Eu sou o Bruno Gonçalves ✌️
+### Hi, I'm Bruno Gonçalves ✌️
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning JavaScript and Java
