@@ -1,4 +1,4 @@
-### Hi, I'm Bruno Gonçalves ✌️
+<h2> Hi, Welcome to my GitHub , I'm Bruno Gonçalves ✌️</h2>
 
 - 🔭 I’m currently working on personal projects
 - 🌱 I’m currently learning JavaScript and Java
